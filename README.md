@@ -1,10 +1,10 @@
-# NueXini_Packages
+# Mt-wifi
 
 ------
 
 
 
-## 1.如何使用NueXini_Packages？ / How to use NueXini_Packages?
+## 1.如何使用Mt-wifi？ / How to use Mt-wifi?
 ```bash
 cd lede
 sed -i '$a src-git NueXini_Packages https://github.com/NueXini/NueXini_Packages.git' feeds.conf.default
